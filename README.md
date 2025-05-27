@@ -1,7 +1,7 @@
 # KIM GYU BIN 😉
 
 [![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyliasec)](https://solved.ac/pyliasec)
-![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)
+[![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)](https://solved.ac/pyliasec)
 
 ## Github
 ![khm1380 GitHub stats](https://github-readme-stats.vercel.app/api?username=pyliasec&theme=dark&show_icons=true)
