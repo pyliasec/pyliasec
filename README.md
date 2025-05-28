@@ -24,9 +24,25 @@
   <img height = "160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&theme=react&show_icons=true&hide_border=false&layout=compact" alt = "salma-elbakkouri" style = "margin: 0" />
 </div>
 
+<!--
 # 💪Skills
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,r,c,cpp,go&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,c,cpp,go&theme=light)]([https://skillicons.dev])
 <br>
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=light)](https://skillicons.dev)
+-->
+
+# 💪Skills
+### Languages
+[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://www.python.org)
+[![R](https://skillicons.dev/icons?i=r&theme=light)](https://www.r-project.org)
+[![C](https://skillicons.dev/icons?i=c&theme=light)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://skillicons.dev/icons?i=cpp&theme=light)](https://isocpp.org)
+[![Go](https://skillicons.dev/icons?i=go&theme=light)](https://go.dev)
+<br>
+
+### Tools
+[![Vscode](https://skillicons.dev/icons?i=vscode&theme=light)](https://code.visualstudio.com)
+[![Git](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com)
+[![Github](https://skillicons.dev/icons?i=github&theme=light)](https://github.com)
