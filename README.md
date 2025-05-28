@@ -4,7 +4,8 @@
 [![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)](https://solved.ac/pyliasec)
 
 ## Github
-![khm1380 GitHub stats](https://github-readme-stats.vercel.app/api?username=pyliasec&theme=dark&show_icons=true)
+![pyliasec GitHub stats](https://github-readme-stats.vercel.app/api?username=pyliasec&theme=dark&show_icons=true)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&langs_count=8&layout=compact&theme=dark)](https://github.com/pyliasec)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&langs_count=8&layout=compact&theme=dark)](https://github.com/pyliasec)
 # 💪Skills
 ### Languages
