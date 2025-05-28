@@ -4,8 +4,10 @@
 [![solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=pyliasec&theme=warm)](https://solved.ac/pyliasec)
 
 ## Github
-![pyliasec GitHub stats](https://github-readme-stats.vercel.app/api?username=pyliasec&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/pyliasec)
+[![pyliasec's Stats](https://github-readme-stats.vercel.app/api?username=pyliasec&theme=dark&show_icons=true&hide_border=false&count_private=true)](https://github.com/pyliasec)
+[![pyliasec's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pyliasec&theme=dark&hide_border=false)](https://github.com/pyliasec)
+[![pyliasec's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&theme=dark&show_icons=true&hide_border=false&layout=compact)](https://github.com/pyliasec)
+
 # 💪Skills
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,r,c,cpp,go&theme=light)](https://skillicons.dev)
