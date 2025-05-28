@@ -19,8 +19,8 @@
 -->
 
 <div style="display:flex;flex-direction:row;justify-content:center;">
-  <img height = "160" src = "https://github-readme-stats-salesp07.vercel.app/api?username=pyliasec&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt = "readme stats" style = "margin: 0" />
-  <img height = "160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&theme=react&show_icons=true&hide_border=false&layout=compact" alt = "salma-elbakkouri" style = "margin: 0" />
+  <img height = "160" src = "https://github-readme-stats-salesp07.vercel.app/api?username=pyliasec&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&border_radius=5" alt = "readme stats" style = "margin: 0" />
+  <img height = "160" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&theme=react&show_icons=true&hide_border=true&layout=compact" alt = "salma-elbakkouri" style = "margin: 0" />
 </div>
 
 <!--
