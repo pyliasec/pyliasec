@@ -5,7 +5,7 @@
 
 ## Github
 ![pyliasec GitHub stats](https://github-readme-stats.vercel.app/api?username=pyliasec&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&langs_count=8&layout=compact&theme=dark)](https://github.com/pyliasec)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyliasec&langs_count=8&layout=compact&theme=gruvbox)](https://github.com/pyliasec)
 # 💪Skills
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=py,r,c,cpp,go&theme=light)](https://skillicons.dev)
